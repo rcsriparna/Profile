@@ -1,15 +1,15 @@
   body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background:url(./image/bg-body.jpg);
+    background:url(../image/bg-body.jpg);
   }
 
   .page{
-    background:url(./image/bg-header.jpg) no-repeat center top;
+    background:url(../image/bg-header.jpg) no-repeat center top;
   }
   
   header{
-    background:url(./image/bg-navigation.jpg) no-repeat center 50px;
+    background:url(../image/bg-navigation.jpg) no-repeat center 50px;
     width:940px;
     margin:0 auto;
     height:105px;
@@ -82,7 +82,7 @@
     color: #5c5c5c;
     margin: 10px;
     padding: 10px;
-    background:url(./image/bg-navigation.jpg) no-repeat center 90px;
+    background:url(../image/bg-navigation.jpg) no-repeat center 90px;
 
 
   }
@@ -112,7 +112,7 @@
 
  .footer{
 	width:940px;
-	background:url(./image/bg-footer.jpg) no-repeat center top;
+	background:url(../image/bg-footer.jpg) no-repeat center top;
 	padding:65px 10px 207px;
 	margin:0 auto;
 	overflow:hidden;
@@ -123,14 +123,14 @@
 	height:28px;
 	display:block;
 	text-indent:-9999px;
-	background:url(./images/icons.gif) no-repeat;
+	background:url(../images/icons.gif) no-repeat;
 }
 .footer div.connect a#twitter{
 	width:36px;
 	height:28px;
 	display:block;
 	text-indent:-9999px;
-	background:url(./images/icons.gif) no-repeat 0 -48px;
+	background:url(../images/icons.gif) no-repeat 0 -48px;
 	margin:0 0 0 68px;
 }
 .footer div.connect a#linkdin{
@@ -138,7 +138,7 @@
 	height:28px;
 	display:block;
 	text-indent:-9999px;
-	background:url(./images/icons.gif) no-repeat 0 -96px;
+	background:url(../images/icons.gif) no-repeat 0 -96px;
 	margin:0 0 0 73px;
 }
 /* ------------------Project------------------------ */
